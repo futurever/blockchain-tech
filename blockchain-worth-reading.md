@@ -8,6 +8,7 @@
 |[awesome-blockchain](https://github.com/chaozh/awesome-blockchain-cn) |11.1k|chaozh|document|Apache-2.0|js|blockchain|
 |[bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) |9.4k|bitcoinbook|document||python|blockchain|
 |[gun](https://github.com/amark/gun) |8.1k|amark|code||js|db engine|
+|[eos](https://github.com/EOSIO/eos) |7k|EOSIO|code|MIT|
 |[mist](https://github.com/ethereum/mist) |6.4k|ethereum|code|GPL-3.0|js|blockchain|
 |[truffle](https://github.com/trufflesuite/truffle) |5.9k|trufflesuite|code|MIT|js|blockchain|
 |[fabric](https://github.com/hyperledger/fabric) |5.3k|hyperledger|code|Apache-2.0|go|blockchain|
