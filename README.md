@@ -1,5 +1,7 @@
 # [Blockchain-Tech](https://futurever.github.io/blockchain-tech)
 
+## English|[中文](README-zh.md)
+
 ## ETH
 
 * [x] [metrics for ethereum](ethereum/go-ethereum-metrics.md)
