@@ -10,7 +10,7 @@
 
 * [x] [区块链项目 go](projects/blockchain-in-go.md)
 * [x] [区块链项目 c/c++](projects/blockchain-in-c-and-c++.md)
-* [ ] [区块链项目 python](projects/blockchain-in-python.md)
+* [x] [区块链项目 python](projects/blockchain-in-python.md)
 * [x] [区块链项目 java](projects/blockchain-in-java.md)
 * [ ] [区块链项目 js](projects/blockchain-in-js.md)
 
