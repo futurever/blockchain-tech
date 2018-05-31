@@ -12,6 +12,6 @@
 * [x] [blockchain in c/c++](projects/blockchain-in-c-and-c++.md)
 * [x] [blockchain in python](projects/blockchain-in-python.md)
 * [x] [blockchain in java](projects/blockchain-in-java.md)
-* [ ] [blockchain in js](projects/blockchain-in-js.md)
+* [x] [blockchain in js](projects/blockchain-in-js.md)
 
 ## [Worth Reading](blockchain-worth-reading.md)
